@@ -1,0 +1,53 @@
+#nav-bar{
+    background-color: white;
+    height: 100px;
+    padding: 0 0 0 100px;
+}
+
+ul{
+    position: relative;
+    float: right;
+}
+
+li{
+    float: right;
+}
+
+#name{
+    line-height:1.5;
+    display: inline-block;
+    vertical-align: middle;
+    color: white;
+}
+
+#nameparent{
+    line-height: 100px;
+    height: 100px;
+    width: 300px;
+    text-align: center; 
+    background-color: #4aaaa5;
+    float: left;
+}
+
+body{
+    background-image: url(../images/trees.png);
+    font-family:  Arial, Helvetica, sans-serif;
+}
+
+#about-me{
+    background-color: white;
+    margin: 10px 0 0 100px;
+    padding: 20px;
+    width: 960px;
+}
+
+#headshotpic{
+    height: 200px;
+    float: left;
+    padding: 0 10px 0 0;
+}
+
+.about-me-text{
+    font-size: 130%;
+    line-height: 1.5;
+}
